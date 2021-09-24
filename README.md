@@ -11,4 +11,4 @@
 |- [https://blog.csdn.net/intbird](https://blog.csdn.net/intbird)   |- [https://intbird.net/localtunnel/](https://intbird.net/localtunnel/)                  |- [https://intbird.net/photos/](https://intbird.net/photos/)                |
 |- [https://gitlab.com/intbird](https://gitlab.com/intbird)         |- [https://intbird.net/localnetwork/](https://intbird.net/localnetwork/)                |- [https://intbird.net/qbittorrent/](https://intbird.net/qbittorrent/)    |
 |- [https://github.com/intbird](https://github.com/intbird)         |- [https://intbird.net/flyapi/](https://intbird.net/flyapi/)                            |- email: [intbird@intbird.net](mailto:intbird@intbird.net)                | 
-|- [https://intbird.atlassian.net](https://intbird.atlassian.net)   |- [https://intbird.net/monitor/](https://intbird.net/express/monitor/ux)                |- telegram: [https://t.me/intbird](https://t.me/intbird)                  | 
+|- [https://intbird.atlassian.net](https://intbird.atlassian.net)   |- [https://intbird.net/monitor/](https://intbird.net/express/monitor/ui)                |- telegram: [https://t.me/intbird](https://t.me/intbird)                  | 
